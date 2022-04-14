@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/4POA.iml" filepath="$PROJECT_DIR$/.idea/4POA.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Arquivos - paralelepipedo/Arquivos - paralelepipedo.iml" filepath="$PROJECT_DIR$/Arquivos - paralelepipedo/Arquivos - paralelepipedo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/UML x Java Construção/UML x Java Construção.iml" filepath="$PROJECT_DIR$/UML x Java Construção/UML x Java Construção.iml" />
+      <module fileurl="file://$PROJECT_DIR$/UML x Java Construção/src/UML x Java Construção1.iml" filepath="$PROJECT_DIR$/UML x Java Construção/src/UML x Java Construção1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/corridathreads/corridathreads.iml" filepath="$PROJECT_DIR$/corridathreads/corridathreads.iml" />
+    </modules>
+  </component>
+</project>
